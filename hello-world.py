@@ -1,1 +1,1 @@
-ｍしprint('Hello World')
+print('Hello World')
